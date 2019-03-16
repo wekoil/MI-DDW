@@ -1,1 +1,9 @@
-= HW1 - TBD!
+= HW1 - Done!
+
+I choosed website fitness007.cz for webcrawling of eshop items.
+
+I had some problems with missing description of vendors and items so i had to wrap the code into try catch blocks. Also before each request I put a 1 second delay.
+
+I started from website "https://www.fitness007.cz//vyrobci/" where are listed all vendors. For each vendor I select all the items they were selling and put everything in json files.
+
+The crawl is implemented in jupyter notebook "result.ipynb", the vendors are stored in "vyrobci.json" and items in "items.json".
