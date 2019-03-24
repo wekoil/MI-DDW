@@ -1,0 +1,37 @@
+Average
+Euclidean binary precision
+0.012888888888888882
+Euclidean binary recall
+0.03553423630435125
+Euclidean binary F-measure
+0.01781858858312141
+Euclidean Term Frequency precision
+0.07511111111111118
+Euclidean Term Frequency recall
+0.1996613270347871
+Euclidean Term Frequency F-measure
+0.1025703211020432
+Euclidean TF-IDF precision
+0.1535555555555556
+Euclidean TF-IDF recall
+0.42292367119323115
+Euclidean TF-IDF F-measure
+0.21211325919259827
+Cosine binary precision
+0.09955555555555567
+Cosine binary recall
+0.28692851358442995
+Cosine binary F-measure
+0.13944457562772075
+Cosine Term Frequency precision
+0.08911111111111118
+Cosine Term Frequency recall
+0.2446701014268041
+Cosine Term Frequency F-measure
+0.12233182853841017
+Cosine TF-IDF precision
+0.15977777777777788
+Cosine TF-IDF recall
+0.44331181646643375
+Cosine TF-IDF F-measure
+0.22104669332118243

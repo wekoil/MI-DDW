@@ -1,1 +1,24 @@
-= HW2 - TBD!
+= HW2 - Done!
+
+I represented each document in Binary representation, Term Frequency and TF-IDF. Then computed each combination of query with Euclidean distance and Cosine similarity measure. Then i evaluated all results with Precision, Recal and F-measure for top 20 results.
+
+Implementation can be found in jupyter notebook called "result.ipynb".
+
+The results are stored in csv file "results.csv".
+
+After all evaluation has been done I looked onto results and found (i computed the average result which is stored in file "avg.txt"):
+
+*Euclidean distance vs. Cosine similarity measure*
+
+As we expected the Cosine similarity measure was much better. But on TF-IDF representation the difference was minimal between them.
+
+*Binary representation vs. Term Frequency vs. TF-IDF*
+
+Of course the TF-IDF is the best.
+When looking on Cosine similarity measure the difference between Binary representation and Term Frequency was minimal but on the Euclidean distance Term Frequency was a lot better.
+
+
+
+I had issues with python and my implementation and spend much time on solving what is wrong and debugging (as always). For a long time my program for one query returned always the same precision, recall and f-measure independently on representation and relevance scores which i found very weird and after a long while I realized that problem was with my array opperations and not my implementation of representation and relevance scores.
+
+For future work I could try to change and experiment with the number of selected documents. I think that it may improve my results.
