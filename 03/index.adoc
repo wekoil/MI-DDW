@@ -8,7 +8,7 @@ Nltk shows the best result for my text.
 
 Wikipedia using nltk results did not know some words (Technical, Popular, Volunteers, NPOs). For some words the ouptut is in different languange (Syria, Russia) so it can not be read and for some words the output is very long.
 
-Wikipedia using custom patterns did not find some words as above. The others are long and meaningless.
+Wikipedia using custom patterns did not find only one word from 20. Few words are in cyrillic. Some word has long and meaningless output. The rest is good.
 
 Only few of the words the wikipedia did resolve corectly.
 
