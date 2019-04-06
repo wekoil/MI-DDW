@@ -1,1 +1,19 @@
-= HW3 - TBD!
+= HW3 - Done!
+
+I Downloaded some speech from Putin - President of Russia.
+
+The implementation is provided in jupyter notebook "textmining.ipynb". There are listed all the top 20 results from each step.
+
+Nltk shows the best result for my text.
+
+Wikipedia using nltk results did not know some words (Technical, Popular, Volunteers, NPOs). For some words the ouptut is in different languange (Syria, Russia) so it can not be read and for some words the output is very long.
+
+Wikipedia using custom patterns did not find some words as above. The others are long and meaningless.
+
+Only few of the words the wikipedia did resolve corectly.
+
+Maybe on different dataset the results from wikipedia will be better.
+
+The implementation was straightforward without big issues.
+
+The algorithm could be extended with some dictionary to resolve some basic words which wikipedia did not.
