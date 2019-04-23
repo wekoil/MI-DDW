@@ -1,1 +1,11 @@
-= HW4 - TBD!
+= HW4 - Done!
+
+All the information about graph can be found in jupyter notebook "src/network.ipynb".
+
+Visualisation of the graph with max 5 actors in one movie can be found in "results/graf.pdf". But it is big to visualize and see some results.
+
+In the results folder is graph exported in GEXF format. There can be found the small one with only 5 actors and the whole graph.
+
+I had issues with computing centrality because it took long so i ended only with two of them.
+
+For improvements i would like to improve the visualization of the graph in Gephi. Because it does not says anything about it.
