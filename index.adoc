@@ -4,5 +4,3 @@
 * xref:02/index#[]
 * xref:03/index#[]
 * xref:04/index#[]
-* xref:05/index#[]
-* xref:06/index#[]

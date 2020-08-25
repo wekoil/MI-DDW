@@ -1,0 +1,1 @@
+# Homeworks for the MI-DDW subject at FIT CTU
